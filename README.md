@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩🏻‍💻 I'm a Front-end Developer sharing my journey and learnings in tech.
-👩🏻‍🎓 I studied Computer Science at the Asia Euro University.
+👷🏻‍♂️ I'm a Front-end Developer sharing my journey and learnings in tech.
+👨🏻‍🎓 I studied Computer Science at the Asia Euro University.
 🌷 I’m learning in public through my digital garden.
 💭 Currently diving into data analytics and exploring data visualization!
 
